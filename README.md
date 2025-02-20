@@ -1,3 +1,8 @@
+## Hi, my name is Aleksandr! 👋
+I am a DevOps engineer with commercial experience.
+
+---
+
 ### 🛠️ Technical Skills
 
 #### **DevOps & Infrastructure**
