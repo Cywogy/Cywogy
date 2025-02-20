@@ -16,6 +16,15 @@
 
 ---
 
+### 🌱 What I'm Learning
+- **Programming Languages**: Improving my skills in Python, С;
+- **DevSecOps** (as a potential direction)
+- **Kubernetes**
+- **Terraform**
+
+
+---
+
 ### 🛠️ Technologies and Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
