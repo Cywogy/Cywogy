@@ -1,11 +1,12 @@
 ## Hi, my name is Aleksandr! 👋
-I am a DevOps engineer with commercial experience.
+I am a DevOps engineer with a background of two years of experience.
 
 ---
 
 ### 🛠️ Technical Skills
 
 #### **DevOps & Infrastructure**
+- **Orchestration**: Kubernetes, Helm
 - **Containerization**: Docker, docker-compose;
 - **CI/CD**: Azure DevOps, GitLab CI/CD;
 - **Monitoring**: Zabbix, Grafana, Prometheus;
@@ -24,7 +25,6 @@ I am a DevOps engineer with commercial experience.
 ### 🌱 What I'm Learning
 - **Programming Languages**: Improving my skills in Python, С;
 - **DevSecOps** (as a potential direction)
-- **Kubernetes**
 - **Terraform**
 
 
