@@ -1,5 +1,5 @@
 ## Hi, my name is Aleksandr! 👋
-I am a DevOps engineer with a background of two years of experience.
+I am a DevOps engineer with a background of experience.
 
 ---
 
